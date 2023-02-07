@@ -1,0 +1,12 @@
+h2{
+  font-famil:"Courier New"; font-size:x-large;  font-style:italic;
+  font-weight:lighter; text-align:center; color:blue; background-color:gray; border:5px dashed green;
+}
+p{
+  font-family:"Comic Sans Ms"; font-size:30px ; font-weight:500
+}
+
+table, th,td {border:3px solid green;
+  
+}
+img 
